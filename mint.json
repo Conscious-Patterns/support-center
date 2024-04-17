@@ -29,6 +29,18 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "TUNE Device",
+      "url": "tune-device"
+    },
+    {
+      "name": "TUNE OS App",
+      "url": "tune-os-app"
+    },
+    {
+      "name": "Managing Your Account",
+      "url": "managing-your-account"
     }
   ],
   "anchors": [
@@ -80,6 +92,42 @@
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
+      ]
+    },
+    {
+      "group": "Getting Started",
+      "pages": [
+        "tune-device/turning-on-the-TUNE",
+        "tune-device/restarting-your-TUNE"
+      ]
+    },
+    {
+      "group": "Troubleshooting",
+      "pages": [
+        "tune-device/example"
+      ]
+    },
+    {
+      "group": "Getting Started",
+      "pages": [
+        "tune-os-app/downloading-the-app",
+        "tune-os-app/setting-up-your-account",
+        "tune-os-app/connecting-to-your-TUNE"
+      ]
+    },
+    {
+      "group": "Troubleshooting",
+      "pages": [
+        "tune-os-app/issue-finding-your-TUNE",
+        "tune-os-app/issue-running-a-session"
+      ]
+    },
+    {
+      "group": "Getting Started",
+      "pages": [
+        "managing-your-account/setting-up-a-new-account",
+        "managing-your-account/setting-up-your-business-Organization",
+        "managing-your-account/adding-your-team-members"
       ]
     }
   ],
