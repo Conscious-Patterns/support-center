@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "TUNE Support Center",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/tune_logo_bone.png",
+    "light": "/logo/tune_logo_charcoal.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#CC724F",
+    "light": "#CC724F",
+    "dark": "#CC724F",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#CC724F",
+      "to": "#45221D"
     }
   },
   "topbarLinks": [
